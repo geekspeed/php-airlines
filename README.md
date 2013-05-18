@@ -1,5 +1,8 @@
 php-airlines
 ============
+
+Current Status: This project is complete and no further devlopment will be made. 
+
 A simple imitation of a site you can purchase, sell and view flight tickets etc. This was a school project learn best practices for interacting with a database.  
 
 Getting Started
