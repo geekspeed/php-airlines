@@ -10,5 +10,4 @@ Getting Started
 1. Upload to a directory service php. 
 2. Setup database with CREATE-MYSQL.sql
 3. Configure config.php to use your database. 
-4. Alternatively you can view it hosted at http://nowaddhero.com/php-airlines/
 
